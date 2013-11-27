@@ -1,3 +1,5 @@
+My plan for thanksgiving:
+
 + [2012](/mattraibert/txg/tree/master/2012)
 + [brussels_sprouts.md](/mattraibert/txg/blob/master/brussels_sprouts.md)
 + [celeriac.md](/mattraibert/txg/blob/master/celeriac.md)
