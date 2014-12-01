@@ -1,15 +1,1 @@
-My plan for thanksgiving:
-
-+ [2012](/mattraibert/txg/tree/master/2012)
-+ [brussels_sprouts.md](/mattraibert/txg/blob/master/brussels_sprouts.md)
-+ [celeriac.md](/mattraibert/txg/blob/master/celeriac.md)
-+ [cranberry.md](/mattraibert/txg/blob/master/cranberry.md)
-+ [gravy.md](/mattraibert/txg/blob/master/gravy.md)
-+ [green_beans.md](/mattraibert/txg/blob/master/green_beans.md)
-+ [guests.txt](/mattraibert/txg/blob/master/guests.txt)
-+ [ingredients.md](/mattraibert/txg/blob/master/ingredients.md)
-+ [menu.txt](/mattraibert/txg/blob/master/menu.txt)
-+ [potato_latkes.md](/mattraibert/txg/blob/master/potato_latkes.md)
-+ [stuffing.md](/mattraibert/txg/blob/master/stuffing.md)
-+ [sweet_potatoes.md](/mattraibert/txg/blob/master/sweet_potatoes.md)
-+ [turkey.md](/mattraibert/txg/blob/master/turkey.md)
+My plan for thanksgiving.
